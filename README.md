@@ -33,5 +33,6 @@ The purpose of this challenge was to create an algorithm using machine learning 
 
 # Summary
 
+At the end of all this I can say that although I did not manage to obtain an accuracy of 75%, the final values were not very far from the desired result. I will recommend using another type of classification model to see if there are other better results.
 
 
