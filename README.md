@@ -10,6 +10,9 @@ The purpose of this challenge was to create an algorithm using machine learning 
       - The target variable is the 'IS_SUCCESSFUL'
         ![Screenshot 2024-04-29 at 5 35 26 PM](https://github.com/Ever30/deep-learning-challenge/assets/149534473/74a68fa9-d6cd-4dc3-b7c2-31ce4fdf87f7)
       - The variables that I removed from the input data because they are neither targets nor features were "EIN" and "NAME"
+
+        ![Screenshot 2024-04-29 at 6 15 07 PM](https://github.com/Ever30/deep-learning-challenge/assets/149534473/81f2bef6-f67d-4cd9-940c-d4e74be50bd1)
+
       - The rest of the variables were taken into consideration for my model. 
 
   - Compiling, Training, and Evaluating the Model
