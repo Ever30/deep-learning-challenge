@@ -46,3 +46,8 @@ The purpose of this challenge was to create an algorithm using machine learning 
 At the end of all this I can say that although I did not manage to obtain an accuracy of 75%, the final values were not very far from the desired result. I will recommend using another type of classification model to see if there are other better results.
 
 
+# Additional Information
+
+- How to save neural network model to Google Drive
+https://medium.com/@ml_kid/how-to-save-our-model-to-google-drive-and-reuse-it-2c1028058cb2
+
