@@ -19,16 +19,26 @@ The purpose of this challenge was to create an algorithm using machine learning 
         - epoch = 100
           
         ![Screenshot 2024-04-29 at 5 54 13 PM](https://github.com/Ever30/deep-learning-challenge/assets/149534473/557b76a1-22f4-4864-82d4-ee64ec8dfe71)
+   
+        ![1](https://github.com/Ever30/deep-learning-challenge/assets/149534473/9a51dec1-6823-40ed-b92f-29626e4ab43e)
 
 
         - epoch = 150
           
         ![Screenshot 2024-04-29 at 5 54 21 PM](https://github.com/Ever30/deep-learning-challenge/assets/149534473/692f2902-a1c5-4762-a184-6d6443066aa4)
+   
+        ![2](https://github.com/Ever30/deep-learning-challenge/assets/149534473/3cf30ae7-df50-44d2-81b8-fc85d5791790)
+
 
 
         - epoch = 80
           
         ![Screenshot 2024-04-29 at 5 54 28 PM](https://github.com/Ever30/deep-learning-challenge/assets/149534473/a3ca79f4-f58a-4cae-b5ff-7f117a234024)
+   
+        ![3](https://github.com/Ever30/deep-learning-challenge/assets/149534473/47b6a15b-869f-47d6-b5f8-0576b8225955)
+
+
+
         
 
 # Summary
