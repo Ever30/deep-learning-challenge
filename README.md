@@ -48,7 +48,7 @@ The purpose of this challenge was to create an algorithm using machine learning 
 
 # Summary
 
-At the end of all this I can say that although I didn't manage to obtain an accuracy of 75%, the final values were not very far from the desired result. I will recommend using another type of classification model to see if there are other better results. Probably it would be a good idea to try to create a function where the model finds the best number of layers and neurons. 
+At the end of all this I can say that although I didn't manage to obtain an accuracy of 75%, the final values were not very far from the desired result. I will recommend using another type of classification model to see if there are other better results. Probably it would be a good idea to try to create a function where the model finds the best number of layers and neurons, like the exercise call "Ins_AutoOptimization".
 
 
 # Additional Information
