@@ -49,5 +49,6 @@ At the end of all this I can say that although I did not manage to obtain an acc
 # Additional Information
 
 - How to save neural network model to Google Drive
+  
 https://medium.com/@ml_kid/how-to-save-our-model-to-google-drive-and-reuse-it-2c1028058cb2
 
