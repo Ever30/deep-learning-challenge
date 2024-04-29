@@ -13,6 +13,9 @@ The purpose of this challenge was to create an algorithm using machine learning 
       - The rest of the variables were taken into consideration for my model. 
 
   - Compiling, Training, and Evaluating the Model
+      - In the first attempt, I used just two layers with 80 and 30 neurons and epochs = 100. At the end of this, I got an accuracy of .7301
+      - In the following three attempts I modified different values in my algorithm, but despite that, I wasn't able to achieve an accuracy of 75%
+        
 
 # Summary
 
