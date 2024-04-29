@@ -16,9 +16,13 @@ The purpose of this challenge was to create an algorithm using machine learning 
       - In the first attempt, I used just two layers with 80 and 30 neurons and epochs = 100. At the end of this, I got an accuracy of .7301
       - In the following three attempts I modified different values in my algorithm, but despite that, I wasn't able to achieve an accuracy of 75%.
 
-
+        - epoch = 100
         ![Screenshot 2024-04-29 at 5 54 13 PM](https://github.com/Ever30/deep-learning-challenge/assets/149534473/557b76a1-22f4-4864-82d4-ee64ec8dfe71)
+
+        - epoch = 150
         ![Screenshot 2024-04-29 at 5 54 21 PM](https://github.com/Ever30/deep-learning-challenge/assets/149534473/692f2902-a1c5-4762-a184-6d6443066aa4)
+
+        - epoch = 80
         ![Screenshot 2024-04-29 at 5 54 28 PM](https://github.com/Ever30/deep-learning-challenge/assets/149534473/a3ca79f4-f58a-4cae-b5ff-7f117a234024)
         
 
